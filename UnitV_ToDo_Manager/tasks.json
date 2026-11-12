@@ -1,0 +1,23 @@
+[
+    {
+        "task": "Complete ICT Assignment",
+        "description": "Finish the Python GUI application report.",
+        "priority": "High",
+        "due_date": "2026-11-05",
+        "status": "Completed"
+    },
+    {
+        "task": "Study Python",
+        "description": "Practise Python programming and revise important concepts.",
+        "priority": "High",
+        "due_date": "2026-11-05",
+        "status": "Pending"
+    },
+    {
+        "task": "Read ICT Chapter 5",
+        "description": "Read Chapter 5 carefully, understand the key concepts and make notes on important points for revision.",
+        "priority": "High",
+        "due_date": "2026-11-05",
+        "status": "Pending"
+    }
+]
